@@ -36,7 +36,7 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-  - block: about.artificial intelligence
+  - block: about.biograph
     id: about
     content:
       title: Artificial Intelligence
@@ -76,7 +76,7 @@ sections:
               * Responsible for the content editing, layout arrangement and presentation production of the application
               * write event planning, poster content planning and layout design and translate them into actual results
         - title: Professor of Semiconductor Physics
-          company: University X
+          company: Youth Media Online Programme Trainee
           company_url: ''
           company_logo: org-x
           location: California
