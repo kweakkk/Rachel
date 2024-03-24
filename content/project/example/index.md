@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Airbnb Automated Content Management System
+summary: This project designs and produces an automated content management system based on the Airbnb New York data set
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -9,11 +9,11 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Fan Luo
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
