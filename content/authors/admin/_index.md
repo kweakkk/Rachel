@@ -91,7 +91,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:luofan1210@gmail.com
 
     display:
       header: true
@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Hi!I am Fan LUO, a student of artificial intelligence and digital media at Hong Kong Baptist University. My research interests include artificial intelligence, mobile computing and programmable matter. The skills I control include Python, SQL, NoSQL, R, Html, CSS, JavaScript, Tableau, Gephi,etc.
+Hi! I am Fan LUO, a student of artificial intelligence and digital media at Hong Kong Baptist University. My research interests include artificial intelligence, mobile computing and programmable matter. The skills I control include Python, SQL, NoSQL, R, Html, CSS, JavaScript, Tableau, Gephi,etc.
 {style="text-align: justify;"}
