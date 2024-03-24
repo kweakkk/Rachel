@@ -36,10 +36,10 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-  - block: about.biography
+  - block: about.artificial intelligence
     id: about
     content:
-      title: Biography
+      title: Artificial Intelligence
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -52,7 +52,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Experience
+      title: Internship
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -62,19 +62,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: People Daily (Shaanxi Branch)
+          company: Trainee
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          date_start: '2022-09-01'
+          date_end: '2022-11-01'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Assist professional journalists to edit news content
+              * Responsible for the content editing, layout arrangement and presentation production of the application
+              * write event planning, poster content planning and layout design and translate them into actual results
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
