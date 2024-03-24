@@ -75,14 +75,18 @@ sections:
               * Responsible for the content editing, layout arrangement and presentation production of the application
               * Write event planning, poster content planning and layout design and translate them into actual results
               * Assist professional journalists to edit news content
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: NetEase
+          company: Youth Media Online Programme Trainee
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Online
+          date_start: '2021-08-01'
+          date_end: '2021-11-31'
+          description: |2-
+              Responsibilities include:
+
+              * Studied the official released topics to determine my topics and complete copywriting primarily focused on heatedly discussed social issues
+              * According to the officially released themes, write around hot social issues and independently publish multiple new media manuscripts
     design:
       columns: '2'
   - block: accomplishments
