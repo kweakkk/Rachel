@@ -66,7 +66,7 @@ sections:
           company: Trainee
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: Xi'an
           date_start: '2022-09-01'
           date_end: '2022-11-01'
           description: |2-
