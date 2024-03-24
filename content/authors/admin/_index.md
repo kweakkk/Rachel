@@ -30,8 +30,8 @@ bio: My research interests include Artificial Intelligence, mobile computing and
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Dynamic Web & Mobile Programming
-  - Digital Media
+  - Dynamic Web
+  - Mobile Programming
 
 # Education to show in About widget
 education:
