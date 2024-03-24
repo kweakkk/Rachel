@@ -81,7 +81,7 @@ sections:
           company_logo: org-x
           location: Online
           date_start: '2021-08-01'
-          date_end: '2021-11-31'
+          date_end: '2021-11-01'
           description: |2-
               Responsibilities include:
 
