@@ -197,7 +197,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you have any question or information want to share with me. Please feel free to contact me.
       # Contact (add or remove contact options as necessary)
       email: luofan1210@gmail.com
       phone: +852 679 71 500
