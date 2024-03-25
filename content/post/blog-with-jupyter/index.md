@@ -1,7 +1,7 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: Love classes in colleges become popular
+date: '2021-11-02'
+summary: This article is about classes of love relationship in university.
 ---
 
 
