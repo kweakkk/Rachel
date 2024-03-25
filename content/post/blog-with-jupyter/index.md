@@ -1,12 +1,12 @@
 ---
-title: Data analysis and visualization on 2023 QS Ranking
-summary: This project collects 2023 QS World University Ranking data through crawlers, uses python to write data visualization code
+title: Love classes in colleges become popular
+summary: This article is about classes in love topics of universities.
 tags:
   - Demo
-date: "2016-04-27T00:00:00Z"
+date: "2021-11-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/kweakkk/LUOFan/tree/main/Data%20analysis%20and%20visualization%20on%202023%20QS%20Ranking
+external_link: https://mp.weixin.qq.com/s/1bE2qLYk_b4Jvp1SYMCiGw
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
