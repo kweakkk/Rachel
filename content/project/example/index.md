@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+
 ---
 
 Hong Kong, as a world-renowned tourist destination, has naturally become the first choice for many tourists. To better serve this wave of the tourism boom, we used SQL database technology to create a user-friendly query system to analyse Airbnb-related data in Hong Kong. This system is designed to help users efficiently filter out the most popular room types and the neighbourhoods in which they are located while also exploring the correlation between specific room types and reviews, the number of days booked, and the number of reviews. This system will significantly facilitate the editor's conveniently generating reports, helping readers make

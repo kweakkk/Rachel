@@ -1,34 +1,14 @@
 ---
-title: Love classes in colleges become popular
-date: '2021-11-02'
-summary: This article is about classes of love relationship in university.
+title: Data analysis and visualization on 2023 QS Ranking
+summary: This project collects 2023 QS World University Ranking data through crawlers, uses python to write data visualization code
+tags:
+  - Demo
+date: "2016-04-27T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: https://github.com/kweakkk/LUOFan/tree/main/Data%20analysis%20and%20visualization%20on%202023%20QS%20Ranking
+
+image:
+  caption: Photo by Toa Heftiba on Unsplash
+  focal_point: Smart
 ---
-
-
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
-
-    
-![png](output_1_0.png)
-    
-
-```python
-print("Welcome to Academic!")
-```
-
-    Welcome to Academic!
-
-## Organize your notebooks
-
-Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
-
-## Import the notebooks into your site
-
-```bash
-pipx install academic
-academic import 'notebooks/**.ipynb' content/post/ --verbose
-```
-
-The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.
