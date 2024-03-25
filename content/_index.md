@@ -133,7 +133,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
+        - name: SQL
           tag: Deep Learning
         - name: Other
           tag: Demo
