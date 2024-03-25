@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: External Portfolio
 cms_exclude: true
 
 # View.
