@@ -38,10 +38,10 @@ education:
   courses:
     - course: MSc in AI and Digital Media
       institution: Hong Kong Baptist University
-      year: 2019.8-2023.6
+      year: 2023.8-2024.10
     - course: BA in Journalism
       institution: Shaanxi Normal University
-      year: 2023.8-2024.10
+      year: 2019.8-2023.6
 
 
 # Skills
