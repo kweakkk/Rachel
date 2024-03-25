@@ -2,7 +2,7 @@
 title: Example Talk
 
 event: Hugo Blox Builder Conference
-event_url: https://example.org
+event_url: https://mp.weixin.qq.com/s/1bE2qLYk_b4Jvp1SYMCiGw
 
 location: Hugo Blox Builder HQ
 address:
