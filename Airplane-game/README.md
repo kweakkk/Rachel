@@ -26,6 +26,7 @@ The project now has the relevant scripts which can let loudness of voice to cont
 
 
 **The code of voice control mainly from the components of 'scale from audio' of comPlaneV1 and AudioLoudnessDetection,you can double click it to see the script details.**
+![image](https://github.com/kweakkk/Rachel/blob/main/Airplane-game/image.png)
 
 
 
